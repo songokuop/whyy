@@ -4,7 +4,7 @@
 
 import re
 from os import environ,getenv
-from script import script
+from Script import script
 
 id_pattern = re.compile(r'^.\d+$')
 def is_enabled(value, default):
