@@ -1,0 +1,7 @@
+build:
+  docker:
+      worker: Dockerfile
+
+      # Don't Remove Credit @Movies_Zone_Media
+# Subscribe YouTube Channel For Amazing Bot @Krishna00P
+# Ask Doubt on telegram @Krishna00P
