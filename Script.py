@@ -208,9 +208,19 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
+    CAPTION = """<b>📂ɴᴀᴍᴇ  :   {file_name}
 
-<b> Size ⚙️: {file_size}</b>""" 
+〰️〰️〰️〰️〰️〰️〰️〰️
+╭───🔅 ᴜᴘʟᴏᴀᴅ ʙʏ 🔅 ────╮
+├• ▫️<a href=https://t.me/Movies_Zone_Media>Movies Zone Media</a>
+╰───────────────────╯
+〰️〰️〰️〰️〰️〰️〰️〰️〰️
+🍁 ғᴏʀ ʀᴇǫᴜᴇsᴛ ᴍᴏᴠɪᴇs & sᴇʀɪᴇs
+👉🏻 ▫️ <a href=https://t.me/Movies_Zone_Support>Request Group</a>
+〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+🧲 •  <a href=https://t.me/FREE_4GB_Leech_Group>𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐓𝐨𝐫𝐫𝐞𝐧𝐭 𝐋𝐞𝐞𝐜𝐡 𝐆𝐫𝐨𝐮𝐩 </a>
+〰️〰️〰️〰️〰️〰️〰️〰️〰️</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
@@ -681,9 +691,8 @@ special Thanks To ❤️ Developers -
 """
 
 
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit @KrishnaTG_Botz
+# Ask Doubt on telegram @Krishna00P
 
 
     
