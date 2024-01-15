@@ -1,12 +1,16 @@
+# Don't Remove Credit @VJ_Botz
+# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
+# Ask Doubt on telegram @KingVJ01
+
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/songokuop/Moviessss.git /Elsa
+  git clone https://github.com/songokuop/Moviessss
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /Elsa
+  git clone $UPSTREAM_REPO /Moviessss
 fi
-cd /Elsa
+cd /Moviessss
 pip3 install -U -r requirements.txt
-echo "𝙎𝙩𝙖𝙧𝙩𝙞𝙣𝙜 𝙀𝙡𝙨𝙖....🧞‍♂️"
+echo "Starting Bot...."
 python3 bot.py
