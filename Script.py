@@ -216,10 +216,10 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 ╰───────────────────╯
 〰️〰️〰️〰️〰️〰️〰️〰️〰️
 🍁 ғᴏʀ ʀᴇǫᴜᴇsᴛ ᴍᴏᴠɪᴇs & sᴇʀɪᴇs
-👉🏻 ▫️ <a href=https://t.me/Movies_Zone_Support>Request Group</a>
+👉🏻 ▫️ <a href=https://t.me/+X1AigPdoSTE4ZWQ1>Request Group</a>
 〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-🧲 •  <a href=https://t.me/+znji5oxbUT1jMzNl>𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐓𝐨𝐫𝐫𝐞𝐧𝐭 𝐋𝐞𝐞𝐜𝐡 𝐆𝐫𝐨𝐮𝐩 </a>
+🧲 •  <a href=https://t.me/+VTp2XyT51L42ZTc1>𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐓𝐨𝐫𝐫𝐞𝐧𝐭 𝐋𝐞𝐞𝐜𝐡 𝐆𝐫𝐨𝐮𝐩 </a>
 〰️〰️〰️〰️〰️〰️〰️〰️〰️</b>""" 
 
     IMDB_TEMPLATE_TXT = """
