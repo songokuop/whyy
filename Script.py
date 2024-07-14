@@ -9,9 +9,9 @@ class script(object):
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
-‣ ᴍʏ ɴᴀᴍᴇ : <a href=http://t.me/Movies_Zone_Filter_Bot>𝗠𝗼𝘃𝗶𝗲𝘀 𝗭𝗼𝗻𝗲 𝗕𝗼𝘁</a>
+‣ ᴍʏ ɴᴀᴍᴇ : <a href=http://t.me/Movies_Zone_Filter_Bot>ᴍᴏᴠɪᴇꜱ ᴢᴏɴᴇ ʙᴏᴛ</a>
  ‣ My best friend : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
- ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Movies_Zone_Contact_Bot'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a> 
+ ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Movies_Zone_Contact_Bot'>ᴍᴏᴠɪᴇꜱ ᴢᴏɴᴇ ᴍᴇᴅɪᴀ</a> 
  ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
  ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
  ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
@@ -26,7 +26,7 @@ Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛ�
 Where is source code? - <a href='https://t.me/Movies_Zone_Media'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
 
 
-Developer - <a href='https://t.me/Movies_Zone_Contact_Bot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+Developer - <a href='https://t.me/Movies_Zone_Contact_Bot'>ᴍᴏᴠɪᴇꜱ ᴢᴏɴᴇ ᴍᴇᴅɪᴀ</a></b>"""
 
 
 
@@ -208,18 +208,15 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂ɴᴀᴍᴇ  :   {file_name}
+    CAPTION = """<b>📂ɴᴀᴍᴇ  : [@Movies_Zone_Media] {file_name}
 
 〰️〰️〰️〰️〰️〰️〰️〰️
 ╭───🔅 ᴜᴘʟᴏᴀᴅ ʙʏ 🔅 ────╮
-├• ▫️<a href=https://t.me/Movies_Zone_Media>Movies Zone Media</a>
+├• ▫️<a href=https://t.me/Movies_Zone_Media>ᴍᴏᴠɪᴇꜱ ᴢᴏɴᴇ ᴍᴇᴅɪᴀ</a>
 ╰───────────────────╯
 〰️〰️〰️〰️〰️〰️〰️〰️〰️
 🍁 ғᴏʀ ʀᴇǫᴜᴇsᴛ ᴍᴏᴠɪᴇs & sᴇʀɪᴇs
-👉🏻 ▫️ <a href=https://t.me/+X1AigPdoSTE4ZWQ1>Request Group</a>
-〰️〰️〰️〰️〰️〰️〰️〰️〰️
-
-🧲 •  <a href=https://t.me/+VTp2XyT51L42ZTc1>𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐓𝐨𝐫𝐫𝐞𝐧𝐭 𝐋𝐞𝐞𝐜𝐡 𝐆𝐫𝐨𝐮𝐩 </a>
+👉🏻 ▫️ <a href=https://t.me/movies_zone_spport>ᴍᴏᴠɪᴇꜱ ᴢᴏɴᴇ ꜱᴜᴘᴘᴏʀᴛ</a>
 〰️〰️〰️〰️〰️〰️〰️〰️〰️</b>""" 
 
     IMDB_TEMPLATE_TXT = """
@@ -685,7 +682,7 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developers -
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/Movies_Zone_Contact_Bot'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a>
+-Dev 1 [Owner of this bot ]<a href='https://t.me/Movies_Zone_Contact_Bot'>ⁱᴍᴏᴠɪᴇꜱ ᴢᴏɴᴇ ᴍᴇᴅɪᴀ</a>
 
 -Dev 2 <a href='https://t.me/Movies_Zone_Contact_Bot'>SG</a>
 """
